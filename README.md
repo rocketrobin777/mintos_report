@@ -9,3 +9,5 @@ produces report pdfs for finished investments on mintos.com
 4. rename e.g. 20190812-finished-investments.xlsx to report.xlsx
 5. move report.xlsx in same folder as mintos_report.py
 6. start mintos_report.py
+
+I added a report.xlsx as an example
