@@ -1,7 +1,7 @@
 # mintos_report
 produces report pdfs for finished investments on mintos.com
 
-# libraries needed: pandas, matplotlib, numpy
+# libraries needed: pandas, matplotlib, numpy, xlrd
 
 1. you need an account on mintos.com to use the script
 2. go on https://www.mintos.com/en/my-investments/finished-investments
